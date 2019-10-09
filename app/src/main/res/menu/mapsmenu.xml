@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/miter"
+        android:title="terrian"/>
+    <item android:id="@+id/minormal"
+        android:title="Normal"/>
+    <item android:id="@+id/misat"
+        android:title="Satellite"/>
+    <item android:id="@+id/mihyb"
+        android:title="Hybrid"/>
+
+</menu>
